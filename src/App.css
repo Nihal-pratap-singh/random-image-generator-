@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+.App-header h1 {
+    margin-left: 40%;
+    font-family: outfit;
+    border-radius: 5%;
+  
+}
